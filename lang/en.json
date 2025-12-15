@@ -408,7 +408,8 @@
           "upbringing": "upbringing",
           "born": "Born",
           "horsepower": "Horsepower",
-          "operateSkill": "Operate Skill"
+          "operateSkill": "Operate Skill",
+		  "creaturedescription": "Put a nice description of your NPC/creature here..."
         },
         "labels": {
           "small": "Small (S)",
