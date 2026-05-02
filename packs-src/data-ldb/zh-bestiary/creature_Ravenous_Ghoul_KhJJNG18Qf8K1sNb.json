@@ -1,0 +1,1773 @@
+{
+  "_id": "KhJJNG18Qf8K1sNb",
+  "effects": [],
+  "img": "systems/zweihander/assets/tokens-border/ravenous_ghoul.webp",
+  "items": [
+    {
+      "_id": "013qebwwR0UsPJW3",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Alchemy",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "09BoIxH6f7X0JR7D",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Leadership",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Fellowship"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "0H1aT1HQINq8euom",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Drive",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Brawn"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "3KDvQ8zcNOxrcZIT",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Incantation",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Willpower"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "4EXrIhf6XL3cC8YW",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Ride",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Agility"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "53GCwqszF0yw3Evx",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Heal",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "6clcPZpa4nmW37WE",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Handle Animal",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Fellowship"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "7nFbNzvVCTXOPOJP",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Intimidate",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Brawn"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "DUaQ3tJnvJT7kSv1",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Warfare",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Flo1wDWXkfgHgmSC",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Navigation",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ISOWU2LXU4UStMlM",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Simple Melee",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Combat"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Mxz4jZ5qVxfTt21c",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Counterfeit",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "NcUHZKUfmCZzifrC",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Disguise",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Fellowship"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "O9q1tMNrfA7yL1Wc",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Resolve",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Willpower"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "PeqUxOLue5z66RkH",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Athletics",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Brawn"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "RS3JSDoEMtQ9g9ci",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Pilot",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Agility"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "UpCT6nM1pDrrwDNb",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Scrutinize",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "UviSlLkTASDHsfWE",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Folklore",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "VvGLd58xqVsauasU",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Skulduggery",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Agility"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "WrVlpX7sExHC3Vhz",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Education",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "YVo0t79ZC3uNCpb6",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Martial Melee",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Combat"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "aG2PyFqhpBm2yfuN",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Bargain",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "b0AdxogFI1ePq069",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Gamble",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Intelligence"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "cOXHjdhyXZFIOrPR",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Awareness",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "cOgVWBkWyhZB09YG",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Tradecraft",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Willpower"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "dZJl4nmYtNjaeXgy",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Charm",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "jqobIe82ZBGOZmYi",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Eavesdrop",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "lPfwfPHspXokC0Ao",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Martial Ranged",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Combat"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "m1VAGBmW3pjriFZr",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Survival",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "nXt5D0UEapcq2cAM",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Stealth",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Agility"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "r6VL5isi1OFxLS96",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Rumor",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "s4hMs5SsiR6uhNY8",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Toughness",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Brawn"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "tUlGNzZEfpfrh1wN",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Guile",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "uwxLb12nJrZwmheT",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Coordination",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Agility"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "vRWa2nVsYWzbuSo1",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Interrogation",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Willpower"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "z2GfrhmRDmQ4luLz",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/skills.svg",
+      "name": "Simple Ranged",
+      "type": "skill",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Combat"
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Nu92TvLYgfrm6BH1",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/bloodmonger.svg",
+      "name": "Bloodlust",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "Every time these creatures inflict an Injury, they move one step up the Damage Condition Track positively."
+          }
+        }
+      },
+      "type": "trait",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.zweihander.zh-creature-traits.Item.W9aLlodyUFySgMPp"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706484976011,
+        "modifiedTime": 1706484976011,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "_id": "UDW15nBzs0Pww9d1",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/hunter-eyes.svg",
+      "name": "Dark Sense",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "These creatures can see in the dark."
+          }
+        }
+      },
+      "type": "trait",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.zweihander.zh-creature-traits.Item.jbt9RrgyQunPC5S3"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706484986295,
+        "modifiedTime": 1706484986295,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "_id": "N4De9QRU01mbZPFv",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/wingfoot.svg",
+      "name": "Fast on Their Feet",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "These creatures reduce all Movement Actions by 1 AP (to a minimum of 1 AP). They can also Dodge both melee and ranged weapons."
+          }
+        }
+      },
+      "type": "trait",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.zweihander.zh-creature-traits.Item.6XQ342g3Sbzwu1rb"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706484997200,
+        "modifiedTime": 1706484997200,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "_id": "PXb5ywq2lZgEyxMz",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/screaming.svg",
+      "name": "Sanity-Blasting",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "When first encountered, these creatures provoke one of the three brands of Madness; if of Basic Risk Factor, they provoke Stress; if of Intermediate Risk Factor, they provoke Fear; if of Advanced or Elite Risk Factor, they provoke Horror."
+          }
+        }
+      },
+      "type": "trait",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.zweihander.zh-creature-traits.Item.aQb57vLAyDZtXts8"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706485005473,
+        "modifiedTime": 1706485005473,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "_id": "3XWQcol8nPJELsLZ",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/mouth-watering.svg",
+      "name": "Wanton Hunger",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "When these creatures are encountered, roll 1D6 Chaos Die. If the result is face ‘1-5’, their hunger has been sated. If the result is face ‘6’, their hunger has not yet been sated and they are in a state of frenzy. When sated, they add +1 to both Damage and Peril Condition Tracks. When in a state of frenzy, they add an additional 1D6 Fury Die to Damage."
+          }
+        }
+      },
+      "type": "trait",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.zweihander.zh-creature-traits.Item.mMOuHgxEJJBlMYOv"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706485013116,
+        "modifiedTime": 1706485013116,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "_id": "ZjRTRotjX7YAgJAU",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/knife-fork.svg",
+      "name": "Fork & Knife",
+      "type": "weapon",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "bp": 0,
+          "gc": 0,
+          "ss": 0
+        },
+        "encumbrance": 0,
+        "carried": true,
+        "weaponType": "Bladed",
+        "equipped": true,
+        "associatedSkill": "Simple Melee",
+        "load": 0,
+        "handling": "One-handed",
+        "qualities": {
+          "value": "Fast, Finesse, Weak"
+        },
+        "distance": "Engaged",
+        "damage": {
+          "formula": "[AB] + (1+[#])d6x6"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.zweihander.zh-attack-profiles.Item.RwtyvK1x7ozwW0Tl"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706485099827,
+        "modifiedTime": 1706487855568,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "_id": "gW8FcTl65Zkk8zh9",
+      "effects": [],
+      "img": "https://assets.forge-vtt.com/bazaar/systems/zweihander/assets/assets/icons/maggot.svg",
+      "name": "Disease-Ridden (Tomb Rot)",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "When these creatures reduce a foe to Seriously Wounded, the foe’s wounds are Infected. When they reduce a foe to Grievously Wounded, the foe contracts the Disease indicated in parentheses."
+          }
+        }
+      },
+      "type": "trait",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.zweihander.zh-creature-traits.Item.XYA3dRJgGxT6xDjS"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706487909295,
+        "modifiedTime": 1706487932787,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "name": "Bent Silver Fork",
+      "type": "trapping",
+      "_id": "g49TwvRqh7Jl11di",
+      "img": "systems/zweihander/assets/default-icons/swap-bag.svg",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "gc": 0,
+          "ss": 0,
+          "bp": 0
+        },
+        "encumbrance": 0,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": ""
+          }
+        },
+        "quantity": 1
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.Fov3MmD5P0OoXbk4"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706487966367,
+        "modifiedTime": 1706488159081,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "name": "Fillet Knife",
+      "type": "trapping",
+      "_id": "1huwJAiELku9vMtK",
+      "img": "systems/zweihander/assets/default-icons/swap-bag.svg",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {},
+        "encumbrance": 0,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": ""
+          }
+        },
+        "quantity": 1
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.7QB5sq04KHQsusaa"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706488171866,
+        "modifiedTime": 1706488174379,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "name": "Grotesque Trophy",
+      "type": "trapping",
+      "_id": "XYk9Xng10FrnyHQj",
+      "img": "systems/zweihander/assets/default-icons/swap-bag.svg",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "gc": 0,
+          "ss": 0,
+          "bp": 0
+        },
+        "encumbrance": 0,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": ""
+          }
+        },
+        "quantity": 3
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.rniO4vgUCOv6aaxj"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706488316237,
+        "modifiedTime": 1706488322918,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "name": "Stained Bib and Napkin",
+      "type": "trapping",
+      "_id": "ILxZcRrkGIpvAyJ8",
+      "img": "systems/zweihander/assets/default-icons/swap-bag.svg",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "gc": 0,
+          "ss": 0,
+          "bp": 0
+        },
+        "encumbrance": 0,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": ""
+          }
+        },
+        "quantity": 1
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.DhopAjvmwyzlHSSk"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706488335887,
+        "modifiedTime": 1706488339177,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    },
+    {
+      "name": "Tattered Clothing",
+      "type": "trapping",
+      "_id": "0s9Mi0OFaYEoQ8SC",
+      "img": "systems/zweihander/assets/default-icons/swap-bag.svg",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "gc": 0,
+          "ss": 0,
+          "bp": 0
+        },
+        "encumbrance": 0,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": ""
+          }
+        },
+        "quantity": 1
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JxYKDXx0dhFh0U8v": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.OeDS9pIwVIuJL8ig"
+        }
+      },
+      "_stats": {
+        "systemId": "zweihander",
+        "systemVersion": "5.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1706488350876,
+        "modifiedTime": 1706488354357,
+        "lastModifiedBy": "JxYKDXx0dhFh0U8v"
+      }
+    }
+  ],
+  "name": "Ravenous Ghoul",
+  "prototypeToken": {
+    "name": "Ravenous Ghoul",
+    "displayName": 30,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/zweihander/assets/tokens-border-alt/ravenous_ghoul.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 30,
+    "bar1": {
+      "attribute": "stats.secondaryAttributes.damageCurrent"
+    },
+    "bar2": {
+      "attribute": "stats.secondaryAttributes.perilCurrent"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 999,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [
+      {
+        "id": "basicSight",
+        "range": 999,
+        "enabled": true
+      }
+    ],
+    "flags": {
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      },
+      "wall-height": {
+        "tokenHeight": 0
+      },
+      "vehicle-tokens": {
+        "vehicle": false
+      },
+      "monks-tokenbar": {
+        "include": "exclude"
+      },
+      "perfect-vision": {
+        "sight": {
+          "range": null
+        }
+      }
+    },
+    "randomImg": false
+  },
+  "system": {
+    "stats": {
+      "primaryAttributes": {
+        "combat": {
+          "value": 45,
+          "bonusAdvances": 2
+        },
+        "brawn": {
+          "value": 40,
+          "bonusAdvances": 3
+        },
+        "agility": {
+          "value": 40,
+          "bonusAdvances": 2
+        },
+        "perception": {
+          "value": 50,
+          "bonusAdvances": 0
+        },
+        "intelligence": {
+          "value": 40,
+          "bonusAdvances": 0
+        },
+        "willpower": {
+          "value": 45,
+          "bonusAdvances": 2
+        },
+        "fellowship": {
+          "value": 35,
+          "bonusAdvances": 0
+        }
+      },
+      "secondaryAttributes": {
+        "perilCurrent": {
+          "value": 5,
+          "max": 5
+        },
+        "damageCurrent": {
+          "value": 5,
+          "max": 5
+        },
+        "parry": {
+          "associatedSkill": "Simple Melee",
+          "value": null
+        },
+        "dodge": {
+          "associatedSkill": "Coordination",
+          "value": 60
+        },
+        "magick": {
+          "associatedSkill": "Incantation"
+        },
+        "movement": {
+          "value": 9,
+          "fly": 0
+        },
+        "initiative": {
+          "value": 8
+        },
+        "damageThreshold": {
+          "value": 7
+        },
+        "perilThreshold": {
+          "value": 9
+        }
+      },
+      "manualMode": true
+    },
+    "description": {
+      "@en": "There are those in this world that are slave to their own vices. Ones given to gluttony can fall prey to chaos’ touch during their weakest moments of overindulgence. Once upon this dark path, it cannot be abandoned as the path to ghouldom begins.\n\nAt first, their hunger is satiated only by rich foods; thick blood sausage links, lemon cakes by the baker’s dozen and eel pies. Over time, the hunger grows more severe. They turn to darker appetites to satisfy their hunger; gruesome buffets of honey-cured Human bacon, Elven ears braised with leafy vegetables and Dwarven fingerling fingers boiled with potatoes. As their body begins to grow obese from overeating, in turn their spirit twists within. As their humanity slips away bite by bite, their corpulence grows as the moon moves towards its final phase. Upon the new moon’s zenith, the darkness has fully possessed the poor soul. The flesh sloughs off, revealing a mutated, emaciated shape beneath. Their transformation is complete, forever damnedm to their gluttonous ways as a Ravenous Ghoul.\n\nOftentimes mistaken for supernatural creatures, ghouls are Mutants given to less-than-savory predilections. These foul creatures live on the fringes of society, consumed by their\ninsatiable lust for consumption of flesh. Traveling in packs, Ravenous Ghouls picaroon the countryside to sate their hungers with knife and claw and fork. They sometimes\nfollow in the wake of armies, feeding upon both the living and dead. Hunter ghouls may bide their time amidst the rag pickers in the baggage train, donning disguises to hide their grotesquery. Those given to wanton destruction simply lash out with abandon, possessed by their lust for flesh. Feeding this hunger is paramount, for if a Ravenous Ghoul goes without, they wither and die a terrible, painful death. It is not unheard of for a pack of ghouls to frenzy upon one another when times are lean, leaving only the strongest to survive."
+    },
+    "notes": "",
+    "currency": {},
+    "skillRanks": {
+      "Athletics": 2,
+      "Coordination": 1,
+      "Disguise": 2,
+      "Intimidate": 2,
+      "Resolve": 2,
+      "Simple Melee": 2,
+      "Stealth": 2,
+      "Survival": 2,
+      "Toughness": 2
+    },
+    "details": {
+      "riskFactor": {
+        "value": "1",
+        "notch": "1"
+      },
+      "classification": "Mutant",
+      "size": "1",
+      "role": "",
+      "influences": ""
+    },
+    "languages": []
+  },
+  "type": "creature",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745447134635,
+    "modifiedTime": 1745447315688,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!actors!KhJJNG18Qf8K1sNb"
+}
